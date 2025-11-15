@@ -1,4 +1,4 @@
-# Assembler-Linker-Emulator
+# RiscToolchain
 
 [![Language](https://img.shields.io/badge/language-C++-blue.svg)](https://isocpp.org/)
 [![Build Tools](https://img.shields.io/badge/build-Make-green.svg)](https://www.gnu.org/software/make/)
@@ -97,7 +97,7 @@ The simulated CPU architecture features:
 ## 📁 Project Structure
 
 ```
-assembler-linker-emulator/
+RiscToolchain/
 ├── inc/                      # Header files
 │   ├── assembler.hpp        # Assembler classes and structures
 │   ├── linker.hpp           # Linker classes and structures
